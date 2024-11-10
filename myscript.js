@@ -1,6 +1,6 @@
 
 let isgame = false;
-let Bombs = 1;
+let Bombs = 30;
 let timer;
 let istimer = false;
 let bombPositions = [];
